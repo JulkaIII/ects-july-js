@@ -1,0 +1,12 @@
+{
+  "name": "ects-july",
+  "version": "1.0.0",
+  "description": "The npm package that converts scores from the 100-point grading system to the ECTS format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
